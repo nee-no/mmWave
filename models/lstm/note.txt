@@ -1,0 +1,7 @@
+LSTM_1: neenyabigki4 and neenyabigki6 (less dropout)
+LSTM_2: neenyabigki, neenyabigki3, neenyabigki5
+
+Saved both LSTM_1 and LSTM_2 colab notebooks to Github
+
+2.LSTM_bidirectional.ipynb is trained on englab5510 computer with model configuration the same as LSTM_1
+

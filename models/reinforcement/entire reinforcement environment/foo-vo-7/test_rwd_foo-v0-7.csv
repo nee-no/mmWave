@@ -1,0 +1,2586 @@
+0 (array([22]),) False
+accuracy:  5
+Episode 1: reward: 5.000, steps: 5
+1 (array([22]),) False
+accuracy:  5
+Episode 2: reward: 5.000, steps: 5
+2 (array([12]),) False
+accuracy:  0
+Episode 3: reward: 4.003, steps: 5
+3 (array([22]),) False
+accuracy:  4
+Episode 4: reward: 4.875, steps: 5
+4 (array([22]),) False
+accuracy:  5
+Episode 5: reward: 5.000, steps: 5
+5 (array([37]),) False
+accuracy:  5
+Episode 6: reward: 5.000, steps: 5
+6 (array([22]),) False
+accuracy:  2
+Episode 7: reward: 4.241, steps: 5
+7 (array([22]),) False
+accuracy:  3
+Episode 8: reward: 4.527, steps: 5
+8 (array([54]),) False
+accuracy:  0
+Episode 9: reward: 2.277, steps: 5
+9 (array([14]),) False
+accuracy:  0
+Episode 10: reward: 4.257, steps: 5
+10 (array([22]),) False
+accuracy:  4
+Episode 11: reward: 4.790, steps: 5
+11 (array([22]),) False
+accuracy:  0
+Episode 12: reward: 4.489, steps: 5
+12 (array([22]),) False
+accuracy:  0
+Episode 13: reward: 4.373, steps: 5
+13 (array([48]),) False
+accuracy:  0
+Episode 14: reward: 4.317, steps: 5
+14 (array([48]),) False
+accuracy:  0
+Episode 15: reward: 4.330, steps: 5
+15 (array([48]),) False
+accuracy:  0
+Episode 16: reward: 4.422, steps: 5
+16 (array([22]),) False
+accuracy:  5
+Episode 17: reward: 5.000, steps: 5
+17 (array([22]),) False
+accuracy:  5
+Episode 18: reward: 5.000, steps: 5
+18 (array([22]),) False
+accuracy:  5
+Episode 19: reward: 5.000, steps: 5
+19 (array([22]),) False
+accuracy:  5
+Episode 20: reward: 5.000, steps: 5
+20 (array([22]),) False
+accuracy:  2
+Episode 21: reward: 4.681, steps: 5
+21 (array([22]),) False
+accuracy:  5
+Episode 22: reward: 5.000, steps: 5
+22 (array([37]),) False
+accuracy:  0
+Episode 23: reward: 4.161, steps: 5
+23 (array([22]),) False
+accuracy:  5
+Episode 24: reward: 5.000, steps: 5
+24 (array([22]),) False
+accuracy:  4
+Episode 25: reward: 4.763, steps: 5
+25 (array([48]),) False
+accuracy:  0
+Episode 26: reward: 4.917, steps: 5
+26 (array([22]),) False
+accuracy:  4
+Episode 27: reward: 4.712, steps: 5
+27 (array([22]),) False
+accuracy:  3
+Episode 28: reward: 4.236, steps: 5
+28 (array([40]),) False
+accuracy:  0
+Episode 29: reward: 2.980, steps: 5
+29 (array([22]),) False
+accuracy:  5
+Episode 30: reward: 5.000, steps: 5
+30 (array([22]),) False
+accuracy:  5
+Episode 31: reward: 5.000, steps: 5
+31 (array([22]),) False
+accuracy:  5
+Episode 32: reward: 5.000, steps: 5
+32 (array([48]),) False
+accuracy:  0
+Episode 33: reward: 4.498, steps: 5
+33 (array([22]),) False
+accuracy:  1
+Episode 34: reward: 4.180, steps: 5
+34 (array([22]),) False
+accuracy:  5
+Episode 35: reward: 5.000, steps: 5
+35 (array([12]),) False
+accuracy:  0
+Episode 36: reward: 4.765, steps: 5
+36 (array([30]),) False
+accuracy:  3
+Episode 37: reward: 4.735, steps: 5
+37 (array([48]),) False
+accuracy:  0
+Episode 38: reward: 4.914, steps: 5
+38 (array([22]),) False
+accuracy:  5
+Episode 39: reward: 5.000, steps: 5
+39 (array([22]),) False
+accuracy:  5
+Episode 40: reward: 5.000, steps: 5
+40 (array([22]),) False
+accuracy:  5
+Episode 41: reward: 5.000, steps: 5
+41 (array([22]),) False
+accuracy:  5
+Episode 42: reward: 5.000, steps: 5
+42 (array([22]),) False
+accuracy:  2
+Episode 43: reward: 4.998, steps: 5
+43 (array([22]),) False
+accuracy:  2
+Episode 44: reward: 3.901, steps: 5
+44 (array([12]),) False
+accuracy:  2
+Episode 45: reward: 4.982, steps: 5
+45 (array([22]),) False
+accuracy:  5
+Episode 46: reward: 5.000, steps: 5
+46 (array([22]),) False
+accuracy:  5
+Episode 47: reward: 5.000, steps: 5
+47 (array([8]),) False
+accuracy:  0
+Episode 48: reward: 2.974, steps: 5
+48 (array([12]),) False
+accuracy:  0
+Episode 49: reward: 4.001, steps: 5
+49 (array([22]),) False
+accuracy:  5
+Episode 50: reward: 5.000, steps: 5
+50 (array([22]),) False
+accuracy:  5
+Episode 51: reward: 5.000, steps: 5
+51 (array([22]),) False
+accuracy:  5
+Episode 52: reward: 5.000, steps: 5
+52 (array([22]),) False
+accuracy:  5
+Episode 53: reward: 5.000, steps: 5
+53 (array([22]),) False
+accuracy:  5
+Episode 54: reward: 5.000, steps: 5
+54 (array([8]),) False
+accuracy:  0
+Episode 55: reward: 4.884, steps: 5
+55 (array([12]),) False
+accuracy:  0
+Episode 56: reward: 3.764, steps: 5
+56 (array([12]),) False
+accuracy:  0
+Episode 57: reward: 4.675, steps: 5
+57 (array([37]),) False
+accuracy:  0
+Episode 58: reward: 3.944, steps: 5
+58 (array([48]),) False
+accuracy:  1
+Episode 59: reward: 4.237, steps: 5
+59 (array([22]),) False
+accuracy:  0
+Episode 60: reward: 3.208, steps: 5
+60 (array([22]),) False
+accuracy:  2
+Episode 61: reward: 4.663, steps: 5
+61 (array([22]),) False
+accuracy:  2
+Episode 62: reward: 4.900, steps: 5
+62 (array([22]),) False
+accuracy:  5
+Episode 63: reward: 5.000, steps: 5
+63 (array([18]),) False
+accuracy:  2
+Episode 64: reward: 4.969, steps: 5
+64 (array([12]),) False
+accuracy:  0
+Episode 65: reward: 4.892, steps: 5
+65 (array([12]),) False
+accuracy:  3
+Episode 66: reward: 4.646, steps: 5
+66 (array([22]),) False
+accuracy:  2
+Episode 67: reward: 4.587, steps: 5
+67 (array([8]),) False
+accuracy:  0
+Episode 68: reward: 3.690, steps: 5
+68 (array([22]),) False
+accuracy:  2
+Episode 69: reward: 4.050, steps: 5
+69 (array([12]),) False
+accuracy:  4
+Episode 70: reward: 4.970, steps: 5
+70 (array([22]),) False
+accuracy:  3
+Episode 71: reward: 4.503, steps: 5
+71 (array([58]),) False
+accuracy:  0
+Episode 72: reward: 2.073, steps: 5
+72 (array([12]),) False
+accuracy:  0
+Episode 73: reward: 4.452, steps: 5
+73 (array([22]),) False
+accuracy:  3
+Episode 74: reward: 4.608, steps: 5
+74 (array([22]),) False
+accuracy:  3
+Episode 75: reward: 4.259, steps: 5
+75 (array([22]),) False
+accuracy:  3
+Episode 76: reward: 4.505, steps: 5
+76 (array([44]),) False
+accuracy:  0
+Episode 77: reward: 4.172, steps: 5
+77 (array([22]),) False
+accuracy:  5
+Episode 78: reward: 5.000, steps: 5
+78 (array([22]),) False
+accuracy:  5
+Episode 79: reward: 5.000, steps: 5
+79 (array([22]),) False
+accuracy:  2
+Episode 80: reward: 4.745, steps: 5
+80 (array([48]),) False
+accuracy:  0
+Episode 81: reward: 3.758, steps: 5
+81 (array([22]),) False
+accuracy:  5
+Episode 82: reward: 5.000, steps: 5
+82 (array([22]),) False
+accuracy:  5
+Episode 83: reward: 5.000, steps: 5
+83 (array([22]),) False
+accuracy:  5
+Episode 84: reward: 5.000, steps: 5
+84 (array([22]),) False
+accuracy:  5
+Episode 85: reward: 5.000, steps: 5
+85 (array([48]),) False
+accuracy:  0
+Episode 86: reward: 4.583, steps: 5
+86 (array([22]),) False
+accuracy:  5
+Episode 87: reward: 5.000, steps: 5
+87 (array([3]),) False
+accuracy:  0
+Episode 88: reward: 0.925, steps: 5
+88 (array([22]),) False
+accuracy:  5
+Episode 89: reward: 5.000, steps: 5
+89 (array([4]),) False
+accuracy:  0
+Episode 90: reward: 4.992, steps: 5
+90 (array([22]),) False
+accuracy:  5
+Episode 91: reward: 5.000, steps: 5
+91 (array([12]),) False
+accuracy:  0
+Episode 92: reward: 4.357, steps: 5
+92 (array([22]),) False
+accuracy:  5
+Episode 93: reward: 5.000, steps: 5
+93 (array([22]),) False
+accuracy:  5
+Episode 94: reward: 5.000, steps: 5
+94 (array([44]),) False
+accuracy:  0
+Episode 95: reward: 4.390, steps: 5
+95 (array([22]),) False
+accuracy:  5
+Episode 96: reward: 5.000, steps: 5
+96 (array([22]),) False
+accuracy:  5
+Episode 97: reward: 5.000, steps: 5
+97 (array([22]),) False
+accuracy:  5
+Episode 98: reward: 5.000, steps: 5
+98 (array([12]),) False
+accuracy:  0
+Episode 99: reward: 4.833, steps: 5
+99 (array([22]),) False
+accuracy:  5
+Episode 100: reward: 5.000, steps: 5
+100 (array([22]),) False
+accuracy:  3
+Episode 101: reward: 4.941, steps: 5
+101 (array([22]),) False
+accuracy:  5
+Episode 102: reward: 5.000, steps: 5
+102 (array([22]),) False
+accuracy:  5
+Episode 103: reward: 5.000, steps: 5
+103 (array([16]),) False
+accuracy:  0
+Episode 104: reward: 3.620, steps: 5
+104 (array([22]),) False
+accuracy:  2
+Episode 105: reward: 4.581, steps: 5
+105 (array([22]),) False
+accuracy:  5
+Episode 106: reward: 5.000, steps: 5
+106 (array([12]),) False
+accuracy:  0
+Episode 107: reward: 3.951, steps: 5
+107 (array([22]),) False
+accuracy:  4
+Episode 108: reward: 4.897, steps: 5
+108 (array([48]),) False
+accuracy:  0
+Episode 109: reward: 4.255, steps: 5
+109 (array([22]),) False
+accuracy:  4
+Episode 110: reward: 4.869, steps: 5
+110 (array([22]),) False
+accuracy:  5
+Episode 111: reward: 5.000, steps: 5
+111 (array([22]),) False
+accuracy:  4
+Episode 112: reward: 4.657, steps: 5
+112 (array([12]),) False
+accuracy:  5
+Episode 113: reward: 5.000, steps: 5
+113 (array([22]),) False
+accuracy:  5
+Episode 114: reward: 5.000, steps: 5
+114 (array([22]),) False
+accuracy:  5
+Episode 115: reward: 5.000, steps: 5
+115 (array([22]),) False
+accuracy:  5
+Episode 116: reward: 5.000, steps: 5
+116 (array([22]),) False
+accuracy:  5
+Episode 117: reward: 5.000, steps: 5
+117 (array([44]),) False
+accuracy:  0
+Episode 118: reward: 4.178, steps: 5
+118 (array([22]),) False
+accuracy:  5
+Episode 119: reward: 5.000, steps: 5
+119 (array([12]),) False
+accuracy:  1
+Episode 120: reward: 4.773, steps: 5
+120 (array([22]),) False
+accuracy:  3
+Episode 121: reward: 4.841, steps: 5
+121 (array([44]),) False
+accuracy:  0
+Episode 122: reward: 4.213, steps: 5
+122 (array([22]),) False
+accuracy:  3
+Episode 123: reward: 4.825, steps: 5
+123 (array([22]),) False
+accuracy:  3
+Episode 124: reward: 4.733, steps: 5
+124 (array([48]),) False
+accuracy:  0
+Episode 125: reward: 3.767, steps: 5
+125 (array([58]),) False
+accuracy:  0
+Episode 126: reward: 4.229, steps: 5
+126 (array([22]),) False
+accuracy:  2
+Episode 127: reward: 4.289, steps: 5
+127 (array([22]),) False
+accuracy:  2
+Episode 128: reward: 4.035, steps: 5
+128 (array([22]),) False
+accuracy:  2
+Episode 129: reward: 4.618, steps: 5
+129 (array([22]),) False
+accuracy:  1
+Episode 130: reward: 4.648, steps: 5
+130 (array([22]),) False
+accuracy:  5
+Episode 131: reward: 5.000, steps: 5
+131 (array([12]),) False
+accuracy:  4
+Episode 132: reward: 4.961, steps: 5
+132 (array([22]),) False
+accuracy:  1
+Episode 133: reward: 4.563, steps: 5
+133 (array([22]),) False
+accuracy:  1
+Episode 134: reward: 4.329, steps: 5
+134 (array([58]),) False
+accuracy:  0
+Episode 135: reward: 0.899, steps: 5
+135 (array([22]),) False
+accuracy:  1
+Episode 136: reward: 4.462, steps: 5
+136 (array([22]),) False
+accuracy:  1
+Episode 137: reward: 4.499, steps: 5
+137 (array([22]),) False
+accuracy:  5
+Episode 138: reward: 5.000, steps: 5
+138 (array([8]),) False
+accuracy:  0
+Episode 139: reward: 3.827, steps: 5
+139 (array([48]),) False
+accuracy:  1
+Episode 140: reward: 4.698, steps: 5
+140 (array([22]),) False
+accuracy:  1
+Episode 141: reward: 4.422, steps: 5
+141 (array([12]),) False
+accuracy:  0
+Episode 142: reward: 4.363, steps: 5
+142 (array([12]),) False
+accuracy:  4
+Episode 143: reward: 4.716, steps: 5
+143 (array([22]),) False
+accuracy:  1
+Episode 144: reward: 4.557, steps: 5
+144 (array([22]),) False
+accuracy:  5
+Episode 145: reward: 5.000, steps: 5
+475 (array([22]),) False
+accuracy:  2
+Episode 146: reward: 4.514, steps: 5
+146 (array([22]),) False
+accuracy:  3
+Episode 147: reward: 4.884, steps: 5
+147 (array([28]),) False
+accuracy:  0
+Episode 148: reward: 3.548, steps: 5
+148 (array([22]),) False
+accuracy:  0
+Episode 149: reward: 4.494, steps: 5
+149 (array([8]),) False
+accuracy:  0
+Episode 150: reward: 3.501, steps: 5
+150 (array([22]),) False
+accuracy:  0
+Episode 151: reward: 4.573, steps: 5
+151 (array([22]),) False
+accuracy:  0
+Episode 152: reward: 4.586, steps: 5
+152 (array([3]),) False
+accuracy:  0
+Episode 153: reward: 0.906, steps: 5
+153 (array([22]),) False
+accuracy:  0
+Episode 154: reward: 2.535, steps: 5
+154 (array([28]),) False
+accuracy:  0
+Episode 155: reward: 2.199, steps: 5
+155 (array([22]),) False
+accuracy:  0
+Episode 156: reward: 4.623, steps: 5
+156 (array([22]),) False
+accuracy:  0
+Episode 157: reward: 3.941, steps: 5
+157 (array([48]),) False
+accuracy:  0
+Episode 158: reward: 4.669, steps: 5
+158 (array([22]),) False
+accuracy:  0
+Episode 159: reward: 4.638, steps: 5
+159 (array([48]),) False
+accuracy:  0
+Episode 160: reward: 2.930, steps: 5
+160 (array([22]),) False
+accuracy:  0
+Episode 161: reward: 4.930, steps: 5
+161 (array([22]),) False
+accuracy:  0
+Episode 162: reward: 4.470, steps: 5
+162 (array([22]),) False
+accuracy:  5
+Episode 163: reward: 5.000, steps: 5
+163 (array([38]),) False
+accuracy:  0
+Episode 164: reward: 4.575, steps: 5
+164 (array([36]),) False
+accuracy:  0
+Episode 165: reward: 2.616, steps: 5
+165 (array([42]),) False
+accuracy:  0
+Episode 166: reward: 3.445, steps: 5
+166 (array([22]),) False
+accuracy:  0
+Episode 167: reward: 3.915, steps: 5
+167 (array([22]),) False
+accuracy:  0
+Episode 168: reward: 4.551, steps: 5
+168 (array([22]),) False
+accuracy:  0
+Episode 169: reward: 4.593, steps: 5
+169 (array([22]),) False
+accuracy:  3
+Episode 170: reward: 4.687, steps: 5
+170 (array([44]),) False
+accuracy:  0
+Episode 171: reward: 3.272, steps: 5
+171 (array([22]),) False
+accuracy:  0
+Episode 172: reward: 4.590, steps: 5
+172 (array([12]),) False
+accuracy:  3
+Episode 173: reward: 4.307, steps: 5
+173 (array([3]),) False
+accuracy:  5
+Episode 174: reward: 5.000, steps: 5
+174 (array([33]),) False
+accuracy:  0
+Episode 175: reward: 2.156, steps: 5
+175 (array([22]),) False
+accuracy:  5
+Episode 176: reward: 5.000, steps: 5
+176 (array([58]),) False
+accuracy:  0
+Episode 177: reward: 1.239, steps: 5
+177 (array([38]),) False
+accuracy:  0
+Episode 178: reward: 3.764, steps: 5
+178 (array([22]),) False
+accuracy:  4
+Episode 179: reward: 4.720, steps: 5
+179 (array([22]),) False
+accuracy:  0
+Episode 180: reward: 1.823, steps: 5
+180 (array([48]),) False
+accuracy:  0
+Episode 181: reward: 0.879, steps: 5
+181 (array([22]),) False
+accuracy:  0
+Episode 182: reward: 0.850, steps: 5
+182 (array([22]),) False
+accuracy:  0
+Episode 183: reward: 1.679, steps: 5
+183 (array([22]),) False
+accuracy:  0
+Episode 184: reward: 1.051, steps: 5
+184 (array([22]),) False
+accuracy:  0
+Episode 185: reward: 1.326, steps: 5
+185 (array([22]),) False
+accuracy:  0
+Episode 186: reward: 1.401, steps: 5
+186 (array([16]),) False
+accuracy:  0
+Episode 187: reward: 3.376, steps: 5
+187 (array([12]),) False
+accuracy:  0
+Episode 188: reward: 4.709, steps: 5
+188 (array([22]),) False
+accuracy:  5
+Episode 189: reward: 5.000, steps: 5
+189 (array([12]),) False
+accuracy:  1
+Episode 190: reward: 4.985, steps: 5
+190 (array([3]),) False
+accuracy:  5
+Episode 191: reward: 5.000, steps: 5
+191 (array([39]),) False
+accuracy:  0
+Episode 192: reward: 3.465, steps: 5
+192 (array([12]),) False
+accuracy:  3
+Episode 193: reward: 4.943, steps: 5
+193 (array([48]),) False
+accuracy:  3
+Episode 194: reward: 4.987, steps: 5
+194 (array([44]),) False
+accuracy:  0
+Episode 195: reward: 3.121, steps: 5
+195 (array([22]),) False
+accuracy:  5
+Episode 196: reward: 5.000, steps: 5
+196 (array([22]),) False
+accuracy:  5
+Episode 197: reward: 5.000, steps: 5
+197 (array([22]),) False
+accuracy:  5
+Episode 198: reward: 5.000, steps: 5
+198 (array([12]),) False
+accuracy:  0
+Episode 199: reward: 4.595, steps: 5
+199 (array([22]),) False
+accuracy:  5
+Episode 200: reward: 5.000, steps: 5
+200 (array([3]),) False
+accuracy:  0
+Episode 201: reward: 0.952, steps: 5
+201 (array([22]),) False
+accuracy:  5
+Episode 202: reward: 5.000, steps: 5
+202 (array([22]),) False
+accuracy:  5
+Episode 203: reward: 5.000, steps: 5
+203 (array([48]),) False
+accuracy:  0
+Episode 204: reward: 4.811, steps: 5
+204 (array([22]),) False
+accuracy:  1
+Episode 205: reward: 4.030, steps: 5
+205 (array([22]),) False
+accuracy:  0
+Episode 206: reward: 3.994, steps: 5
+206 (array([22]),) False
+accuracy:  0
+Episode 207: reward: 4.884, steps: 5
+207 (array([22]),) False
+accuracy:  0
+Episode 208: reward: 4.281, steps: 5
+208 (array([22]),) False
+accuracy:  2
+Episode 209: reward: 4.904, steps: 5
+209 (array([36]),) False
+accuracy:  0
+Episode 210: reward: 3.157, steps: 5
+210 (array([54]),) False
+accuracy:  0
+Episode 211: reward: 0.525, steps: 5
+211 (array([22]),) False
+accuracy:  5
+Episode 212: reward: 5.000, steps: 5
+212 (array([8]),) False
+accuracy:  0
+Episode 213: reward: 2.962, steps: 5
+213 (array([22]),) False
+accuracy:  5
+Episode 214: reward: 5.000, steps: 5
+214 (array([22]),) False
+accuracy:  5
+Episode 215: reward: 5.000, steps: 5
+215 (array([22]),) False
+accuracy:  5
+Episode 216: reward: 5.000, steps: 5
+216 (array([22]),) False
+accuracy:  5
+Episode 217: reward: 5.000, steps: 5
+217 (array([12]),) False
+accuracy:  0
+Episode 218: reward: 3.656, steps: 5
+218 (array([22]),) False
+accuracy:  5
+Episode 219: reward: 5.000, steps: 5
+219 (array([8]),) False
+accuracy:  0
+Episode 220: reward: 1.732, steps: 5
+220 (array([22]),) False
+accuracy:  4
+Episode 221: reward: 4.902, steps: 5
+221 (array([22]),) False
+accuracy:  4
+Episode 222: reward: 4.864, steps: 5
+222 (array([48]),) False
+accuracy:  2
+Episode 223: reward: 4.883, steps: 5
+223 (array([48]),) False
+accuracy:  0
+Episode 224: reward: 3.907, steps: 5
+224 (array([22]),) False
+accuracy:  3
+Episode 225: reward: 4.821, steps: 5
+225 (array([22]),) False
+accuracy:  4
+Episode 226: reward: 4.976, steps: 5
+226 (array([22]),) False
+accuracy:  5
+Episode 227: reward: 5.000, steps: 5
+227 (array([22]),) False
+accuracy:  5
+Episode 228: reward: 5.000, steps: 5
+228 (array([22]),) False
+accuracy:  3
+Episode 229: reward: 4.698, steps: 5
+229 (array([48]),) False
+accuracy:  0
+Episode 230: reward: 3.700, steps: 5
+230 (array([22]),) False
+accuracy:  5
+Episode 231: reward: 5.000, steps: 5
+231 (array([22]),) False
+accuracy:  5
+Episode 232: reward: 5.000, steps: 5
+232 (array([22]),) False
+accuracy:  5
+Episode 233: reward: 5.000, steps: 5
+233 (array([54]),) False
+accuracy:  0
+Episode 234: reward: 2.790, steps: 5
+234 (array([22]),) False
+accuracy:  5
+Episode 235: reward: 5.000, steps: 5
+235 (array([22]),) False
+accuracy:  5
+Episode 236: reward: 5.000, steps: 5
+236 (array([22]),) False
+accuracy:  5
+Episode 237: reward: 5.000, steps: 5
+237 (array([22]),) False
+accuracy:  4
+Episode 238: reward: 4.995, steps: 5
+238 (array([12]),) False
+accuracy:  0
+Episode 239: reward: 4.677, steps: 5
+239 (array([22]),) False
+accuracy:  5
+Episode 240: reward: 5.000, steps: 5
+240 (array([22]),) False
+accuracy:  5
+Episode 241: reward: 5.000, steps: 5
+241 (array([22]),) False
+accuracy:  5
+Episode 242: reward: 5.000, steps: 5
+242 (array([22]),) False
+accuracy:  5
+Episode 243: reward: 5.000, steps: 5
+243 (array([22]),) False
+accuracy:  5
+Episode 244: reward: 5.000, steps: 5
+244 (array([14]),) False
+accuracy:  0
+Episode 245: reward: 4.242, steps: 5
+245 (array([22]),) False
+accuracy:  5
+Episode 246: reward: 5.000, steps: 5
+246 (array([22]),) False
+accuracy:  5
+Episode 247: reward: 5.000, steps: 5
+247 (array([48]),) False
+accuracy:  2
+Episode 248: reward: 4.513, steps: 5
+248 (array([44]),) False
+accuracy:  0
+Episode 249: reward: 4.067, steps: 5
+249 (array([22]),) False
+accuracy:  5
+Episode 250: reward: 5.000, steps: 5
+250 (array([22]),) False
+accuracy:  5
+Episode 251: reward: 5.000, steps: 5
+251 (array([3]),) False
+accuracy:  0
+Episode 252: reward: 0.980, steps: 5
+252 (array([22]),) False
+accuracy:  5
+Episode 253: reward: 5.000, steps: 5
+253 (array([58]),) False
+accuracy:  0
+Episode 254: reward: 1.296, steps: 5
+254 (array([22]),) False
+accuracy:  1
+Episode 255: reward: 4.877, steps: 5
+255 (array([22]),) False
+accuracy:  5
+Episode 256: reward: 5.000, steps: 5
+256 (array([22]),) False
+accuracy:  3
+Episode 257: reward: 4.799, steps: 5
+257 (array([22]),) False
+accuracy:  2
+Episode 258: reward: 4.008, steps: 5
+258 (array([22]),) False
+accuracy:  3
+Episode 259: reward: 4.660, steps: 5
+259 (array([22]),) False
+accuracy:  2
+Episode 260: reward: 4.704, steps: 5
+260 (array([22]),) False
+accuracy:  5
+Episode 261: reward: 5.000, steps: 5
+261 (array([44]),) False
+accuracy:  0
+Episode 262: reward: 3.828, steps: 5
+262 (array([33]),) False
+accuracy:  0
+Episode 263: reward: 2.191, steps: 5
+263 (array([8]),) False
+accuracy:  0
+Episode 264: reward: 2.513, steps: 5
+264 (array([22]),) False
+accuracy:  5
+Episode 265: reward: 5.000, steps: 5
+265 (array([6]),) False
+accuracy:  0
+Episode 266: reward: 1.978, steps: 5
+266 (array([41]),) False
+accuracy:  0
+Episode 267: reward: 3.604, steps: 5
+267 (array([22]),) False
+accuracy:  5
+Episode 268: reward: 5.000, steps: 5
+268 (array([22]),) False
+accuracy:  5
+Episode 269: reward: 5.000, steps: 5
+269 (array([44]),) False
+accuracy:  0
+Episode 270: reward: 4.140, steps: 5
+270 (array([8]),) False
+accuracy:  0
+Episode 271: reward: 2.564, steps: 5
+271 (array([22]),) False
+accuracy:  1
+Episode 272: reward: 3.727, steps: 5
+272 (array([12]),) False
+accuracy:  0
+Episode 273: reward: 3.868, steps: 5
+273 (array([22]),) False
+accuracy:  3
+Episode 274: reward: 4.873, steps: 5
+274 (array([22]),) False
+accuracy:  4
+Episode 275: reward: 4.944, steps: 5
+275 (array([12]),) False
+accuracy:  5
+Episode 276: reward: 5.000, steps: 5
+276 (array([54]),) False
+accuracy:  0
+Episode 277: reward: 4.395, steps: 5
+277 (array([27]),) False
+accuracy:  0
+Episode 278: reward: 3.016, steps: 5
+278 (array([22]),) False
+accuracy:  5
+Episode 279: reward: 5.000, steps: 5
+279 (array([48]),) False
+accuracy:  0
+Episode 280: reward: 3.200, steps: 5
+280 (array([22]),) False
+accuracy:  1
+Episode 281: reward: 4.863, steps: 5
+281 (array([18]),) False
+accuracy:  3
+Episode 282: reward: 4.539, steps: 5
+282 (array([22]),) False
+accuracy:  5
+Episode 283: reward: 5.000, steps: 5
+283 (array([36]),) False
+accuracy:  0
+Episode 284: reward: 3.293, steps: 5
+284 (array([22]),) False
+accuracy:  0
+Episode 285: reward: 4.057, steps: 5
+285 (array([54]),) False
+accuracy:  0
+Episode 286: reward: 0.840, steps: 5
+286 (array([48]),) False
+accuracy:  0
+Episode 287: reward: 4.370, steps: 5
+287 (array([48]),) False
+accuracy:  0
+Episode 288: reward: 3.569, steps: 5
+288 (array([33]),) False
+accuracy:  0
+Episode 289: reward: 2.224, steps: 5
+289 (array([44]),) False
+accuracy:  0
+Episode 290: reward: 2.324, steps: 5
+290 (array([22]),) False
+accuracy:  4
+Episode 291: reward: 4.790, steps: 5
+291 (array([22]),) False
+accuracy:  0
+Episode 292: reward: 4.629, steps: 5
+292 (array([22]),) False
+accuracy:  0
+Episode 293: reward: 4.122, steps: 5
+293 (array([22]),) False
+accuracy:  5
+Episode 294: reward: 5.000, steps: 5
+294 (array([22]),) False
+accuracy:  5
+Episode 295: reward: 5.000, steps: 5
+295 (array([22]),) False
+accuracy:  5
+Episode 296: reward: 5.000, steps: 5
+296 (array([22]),) False
+accuracy:  5
+Episode 297: reward: 5.000, steps: 5
+297 (array([15]),) False
+accuracy:  0
+Episode 298: reward: 4.575, steps: 5
+298 (array([22]),) False
+accuracy:  5
+Episode 299: reward: 5.000, steps: 5
+299 (array([3]),) False
+accuracy:  0
+Episode 300: reward: 0.658, steps: 5
+300 (array([22]),) False
+accuracy:  5
+Episode 301: reward: 5.000, steps: 5
+301 (array([3]),) False
+accuracy:  0
+Episode 302: reward: 1.331, steps: 5
+302 (array([22]),) False
+accuracy:  4
+Episode 303: reward: 4.204, steps: 5
+303 (array([22]),) False
+accuracy:  5
+Episode 304: reward: 5.000, steps: 5
+304 (array([12]),) False
+accuracy:  0
+Episode 305: reward: 4.692, steps: 5
+305 (array([12]),) False
+accuracy:  0
+Episode 306: reward: 4.194, steps: 5
+306 (array([22]),) False
+accuracy:  5
+Episode 307: reward: 5.000, steps: 5
+307 (array([22]),) False
+accuracy:  5
+Episode 308: reward: 5.000, steps: 5
+308 (array([3]),) False
+accuracy:  0
+Episode 309: reward: 1.698, steps: 5
+309 (array([22]),) False
+accuracy:  5
+Episode 310: reward: 5.000, steps: 5
+310 (array([12]),) False
+accuracy:  5
+Episode 311: reward: 5.000, steps: 5
+311 (array([22]),) False
+accuracy:  5
+Episode 312: reward: 5.000, steps: 5
+312 (array([12]),) False
+accuracy:  5
+Episode 313: reward: 5.000, steps: 5
+313 (array([22]),) False
+accuracy:  5
+Episode 314: reward: 5.000, steps: 5
+314 (array([22]),) False
+accuracy:  1
+Episode 315: reward: 4.698, steps: 5
+315 (array([12]),) False
+accuracy:  0
+Episode 316: reward: 4.474, steps: 5
+316 (array([12]),) False
+accuracy:  1
+Episode 317: reward: 4.817, steps: 5
+317 (array([22]),) False
+accuracy:  2
+Episode 318: reward: 4.084, steps: 5
+318 (array([48]),) False
+accuracy:  2
+Episode 319: reward: 4.553, steps: 5
+319 (array([22]),) False
+accuracy:  5
+Episode 320: reward: 5.000, steps: 5
+320 (array([22]),) False
+accuracy:  1
+Episode 321: reward: 4.533, steps: 5
+321 (array([22]),) False
+accuracy:  1
+Episode 322: reward: 4.078, steps: 5
+322 (array([22]),) False
+accuracy:  0
+Episode 323: reward: 4.014, steps: 5
+323 (array([55]),) False
+accuracy:  0
+Episode 324: reward: 3.619, steps: 5
+324 (array([12]),) False
+accuracy:  3
+Episode 325: reward: 4.851, steps: 5
+325 (array([22]),) False
+accuracy:  5
+Episode 326: reward: 5.000, steps: 5
+326 (array([48]),) False
+accuracy:  0
+Episode 327: reward: 4.229, steps: 5
+327 (array([22]),) False
+accuracy:  2
+Episode 328: reward: 4.771, steps: 5
+328 (array([12]),) False
+accuracy:  1
+Episode 329: reward: 3.885, steps: 5
+329 (array([12]),) False
+accuracy:  0
+Episode 330: reward: 4.195, steps: 5
+330 (array([12]),) False
+accuracy:  0
+Episode 331: reward: 4.242, steps: 5
+331 (array([22]),) False
+accuracy:  5
+Episode 332: reward: 5.000, steps: 5
+332 (array([48]),) False
+accuracy:  0
+Episode 333: reward: 4.641, steps: 5
+333 (array([22]),) False
+accuracy:  4
+Episode 334: reward: 4.503, steps: 5
+334 (array([48]),) False
+accuracy:  0
+Episode 335: reward: 4.894, steps: 5
+335 (array([22]),) False
+accuracy:  2
+Episode 336: reward: 4.170, steps: 5
+336 (array([12]),) False
+accuracy:  0
+Episode 337: reward: 3.295, steps: 5
+337 (array([22]),) False
+accuracy:  4
+Episode 338: reward: 4.842, steps: 5
+338 (array([12]),) False
+accuracy:  0
+Episode 339: reward: 4.474, steps: 5
+339 (array([22]),) False
+accuracy:  1
+Episode 340: reward: 4.488, steps: 5
+340 (array([12]),) False
+accuracy:  4
+Episode 341: reward: 4.991, steps: 5
+341 (array([22]),) False
+accuracy:  5
+Episode 342: reward: 5.000, steps: 5
+342 (array([22]),) False
+accuracy:  5
+Episode 343: reward: 5.000, steps: 5
+343 (array([22]),) False
+accuracy:  5
+Episode 344: reward: 5.000, steps: 5
+344 (array([22]),) False
+accuracy:  5
+Episode 345: reward: 5.000, steps: 5
+345 (array([22]),) False
+accuracy:  5
+Episode 346: reward: 5.000, steps: 5
+346 (array([12]),) False
+accuracy:  0
+Episode 347: reward: 4.490, steps: 5
+347 (array([22]),) False
+accuracy:  5
+Episode 348: reward: 5.000, steps: 5
+348 (array([22]),) False
+accuracy:  5
+Episode 349: reward: 5.000, steps: 5
+349 (array([22]),) False
+accuracy:  3
+Episode 350: reward: 4.806, steps: 5
+350 (array([12]),) False
+accuracy:  0
+Episode 351: reward: 4.075, steps: 5
+351 (array([22]),) False
+accuracy:  5
+Episode 352: reward: 5.000, steps: 5
+352 (array([22]),) False
+accuracy:  5
+Episode 353: reward: 5.000, steps: 5
+353 (array([22]),) False
+accuracy:  5
+Episode 354: reward: 5.000, steps: 5
+354 (array([12]),) False
+accuracy:  0
+Episode 355: reward: 3.124, steps: 5
+355 (array([22]),) False
+accuracy:  5
+Episode 356: reward: 5.000, steps: 5
+356 (array([22]),) False
+accuracy:  0
+Episode 357: reward: 4.087, steps: 5
+357 (array([8]),) False
+accuracy:  0
+Episode 358: reward: 1.580, steps: 5
+358 (array([22]),) False
+accuracy:  2
+Episode 359: reward: 4.758, steps: 5
+359 (array([22]),) False
+accuracy:  3
+Episode 360: reward: 4.400, steps: 5
+360 (array([38]),) False
+accuracy:  0
+Episode 361: reward: 4.261, steps: 5
+361 (array([12]),) False
+accuracy:  3
+Episode 362: reward: 4.715, steps: 5
+362 (array([22]),) False
+accuracy:  3
+Episode 363: reward: 4.803, steps: 5
+363 (array([22]),) False
+accuracy:  4
+Episode 364: reward: 4.721, steps: 5
+364 (array([14]),) False
+accuracy:  0
+Episode 365: reward: 3.952, steps: 5
+365 (array([22]),) False
+accuracy:  4
+Episode 366: reward: 4.792, steps: 5
+366 (array([22]),) False
+accuracy:  2
+Episode 367: reward: 3.712, steps: 5
+367 (array([12]),) False
+accuracy:  2
+Episode 368: reward: 4.461, steps: 5
+368 (array([22]),) False
+accuracy:  0
+Episode 369: reward: 1.887, steps: 5
+369 (array([48]),) False
+accuracy:  0
+Episode 370: reward: 4.699, steps: 5
+370 (array([22]),) False
+accuracy:  5
+Episode 371: reward: 5.000, steps: 5
+371 (array([48]),) False
+accuracy:  0
+Episode 372: reward: 4.077, steps: 5
+372 (array([22]),) False
+accuracy:  5
+Episode 373: reward: 5.000, steps: 5
+373 (array([22]),) False
+accuracy:  5
+Episode 374: reward: 5.000, steps: 5
+374 (array([22]),) False
+accuracy:  5
+Episode 375: reward: 5.000, steps: 5
+375 (array([22]),) False
+accuracy:  5
+Episode 376: reward: 5.000, steps: 5
+376 (array([48]),) False
+accuracy:  0
+Episode 377: reward: 4.922, steps: 5
+377 (array([22]),) False
+accuracy:  0
+Episode 378: reward: 4.398, steps: 5
+378 (array([22]),) False
+accuracy:  0
+Episode 379: reward: 4.290, steps: 5
+379 (array([22]),) False
+accuracy:  1
+Episode 380: reward: 4.278, steps: 5
+380 (array([22]),) False
+accuracy:  5
+Episode 381: reward: 5.000, steps: 5
+381 (array([22]),) False
+accuracy:  5
+Episode 382: reward: 5.000, steps: 5
+382 (array([22]),) False
+accuracy:  5
+Episode 383: reward: 5.000, steps: 5
+383 (array([22]),) False
+accuracy:  5
+Episode 384: reward: 5.000, steps: 5
+384 (array([22]),) False
+accuracy:  5
+Episode 385: reward: 5.000, steps: 5
+385 (array([22]),) False
+accuracy:  4
+Episode 386: reward: 4.466, steps: 5
+386 (array([12]),) False
+accuracy:  0
+Episode 387: reward: 4.251, steps: 5
+387 (array([22]),) False
+accuracy:  4
+Episode 388: reward: 4.422, steps: 5
+388 (array([22]),) False
+accuracy:  4
+Episode 389: reward: 4.739, steps: 5
+389 (array([48]),) False
+accuracy:  0
+Episode 390: reward: 4.880, steps: 5
+390 (array([22]),) False
+accuracy:  5
+Episode 391: reward: 5.000, steps: 5
+391 (array([22]),) False
+accuracy:  5
+Episode 392: reward: 5.000, steps: 5
+392 (array([38]),) False
+accuracy:  0
+Episode 393: reward: 3.645, steps: 5
+393 (array([22]),) False
+accuracy:  5
+Episode 394: reward: 5.000, steps: 5
+394 (array([22]),) False
+accuracy:  5
+Episode 395: reward: 5.000, steps: 5
+395 (array([3]),) False
+accuracy:  0
+Episode 396: reward: 1.165, steps: 5
+396 (array([48]),) False
+accuracy:  0
+Episode 397: reward: 4.863, steps: 5
+397 (array([3]),) False
+accuracy:  0
+Episode 398: reward: 1.370, steps: 5
+398 (array([22]),) False
+accuracy:  2
+Episode 399: reward: 4.311, steps: 5
+399 (array([3]),) False
+accuracy:  0
+Episode 400: reward: 2.438, steps: 5
+400 (array([12]),) False
+accuracy:  1
+Episode 401: reward: 4.979, steps: 5
+401 (array([12]),) False
+accuracy:  1
+Episode 402: reward: 3.978, steps: 5
+402 (array([22]),) False
+accuracy:  4
+Episode 403: reward: 4.917, steps: 5
+403 (array([22]),) False
+accuracy:  4
+Episode 404: reward: 4.785, steps: 5
+404 (array([12]),) False
+accuracy:  1
+Episode 405: reward: 4.095, steps: 5
+405 (array([22]),) False
+accuracy:  5
+Episode 406: reward: 5.000, steps: 5
+406 (array([12]),) False
+accuracy:  4
+Episode 407: reward: 4.969, steps: 5
+407 (array([22]),) False
+accuracy:  5
+Episode 408: reward: 5.000, steps: 5
+408 (array([48]),) False
+accuracy:  0
+Episode 409: reward: 4.725, steps: 5
+409 (array([22]),) False
+accuracy:  5
+Episode 410: reward: 5.000, steps: 5
+410 (array([22]),) False
+accuracy:  5
+Episode 411: reward: 5.000, steps: 5
+411 (array([48]),) False
+accuracy:  0
+Episode 412: reward: 4.528, steps: 5
+412 (array([22]),) False
+accuracy:  5
+Episode 413: reward: 5.000, steps: 5
+413 (array([12]),) False
+accuracy:  1
+Episode 414: reward: 3.986, steps: 5
+414 (array([14]),) False
+accuracy:  0
+Episode 415: reward: 4.330, steps: 5
+415 (array([22]),) False
+accuracy:  5
+Episode 416: reward: 5.000, steps: 5
+416 (array([12]),) False
+accuracy:  0
+Episode 417: reward: 4.937, steps: 5
+417 (array([21]),) False
+accuracy:  0
+Episode 418: reward: 3.338, steps: 5
+418 (array([22]),) False
+accuracy:  5
+Episode 419: reward: 5.000, steps: 5
+419 (array([22]),) False
+accuracy:  5
+Episode 420: reward: 5.000, steps: 5
+420 (array([12]),) False
+accuracy:  0
+Episode 421: reward: 4.719, steps: 5
+421 (array([22]),) False
+accuracy:  5
+Episode 422: reward: 5.000, steps: 5
+422 (array([48]),) False
+accuracy:  0
+Episode 423: reward: 4.893, steps: 5
+423 (array([22]),) False
+accuracy:  5
+Episode 424: reward: 5.000, steps: 5
+424 (array([22]),) False
+accuracy:  5
+Episode 425: reward: 5.000, steps: 5
+425 (array([22]),) False
+accuracy:  2
+Episode 426: reward: 3.002, steps: 5
+426 (array([22]),) False
+accuracy:  4
+Episode 427: reward: 4.535, steps: 5
+427 (array([12]),) False
+accuracy:  0
+Episode 428: reward: 3.401, steps: 5
+428 (array([22]),) False
+accuracy:  4
+Episode 429: reward: 4.059, steps: 5
+429 (array([22]),) False
+accuracy:  4
+Episode 430: reward: 4.045, steps: 5
+430 (array([48]),) False
+accuracy:  0
+Episode 431: reward: 4.321, steps: 5
+431 (array([22]),) False
+accuracy:  2
+Episode 432: reward: 3.961, steps: 5
+432 (array([22]),) False
+accuracy:  5
+Episode 433: reward: 5.000, steps: 5
+433 (array([22]),) False
+accuracy:  3
+Episode 434: reward: 4.298, steps: 5
+434 (array([22]),) False
+accuracy:  5
+Episode 435: reward: 5.000, steps: 5
+435 (array([48]),) False
+accuracy:  0
+Episode 436: reward: 4.291, steps: 5
+436 (array([22]),) False
+accuracy:  5
+Episode 437: reward: 5.000, steps: 5
+437 (array([12]),) False
+accuracy:  0
+Episode 438: reward: 4.909, steps: 5
+438 (array([22]),) False
+accuracy:  4
+Episode 439: reward: 4.992, steps: 5
+439 (array([22]),) False
+accuracy:  1
+Episode 440: reward: 4.633, steps: 5
+440 (array([22]),) False
+accuracy:  5
+Episode 441: reward: 5.000, steps: 5
+441 (array([38]),) False
+accuracy:  0
+Episode 442: reward: 3.302, steps: 5
+442 (array([3]),) False
+accuracy:  0
+Episode 443: reward: 1.809, steps: 5
+443 (array([22]),) False
+accuracy:  5
+Episode 444: reward: 5.000, steps: 5
+444 (array([22]),) False
+accuracy:  4
+Episode 445: reward: 4.876, steps: 5
+445 (array([16]),) False
+accuracy:  1
+Episode 446: reward: 4.495, steps: 5
+446 (array([40]),) False
+accuracy:  0
+Episode 447: reward: 4.646, steps: 5
+447 (array([22]),) False
+accuracy:  5
+Episode 448: reward: 5.000, steps: 5
+448 (array([12]),) False
+accuracy:  0
+Episode 449: reward: 3.695, steps: 5
+449 (array([38]),) False
+accuracy:  0
+Episode 450: reward: 4.172, steps: 5
+450 (array([22]),) False
+accuracy:  5
+Episode 451: reward: 5.000, steps: 5
+451 (array([38]),) False
+accuracy:  0
+Episode 452: reward: 3.755, steps: 5
+452 (array([22]),) False
+accuracy:  5
+Episode 453: reward: 5.000, steps: 5
+453 (array([12]),) False
+accuracy:  0
+Episode 454: reward: 4.369, steps: 5
+454 (array([12]),) False
+accuracy:  0
+Episode 455: reward: 4.402, steps: 5
+455 (array([48]),) False
+accuracy:  0
+Episode 456: reward: 4.817, steps: 5
+456 (array([22]),) False
+accuracy:  5
+Episode 457: reward: 5.000, steps: 5
+457 (array([38]),) False
+accuracy:  0
+Episode 458: reward: 3.997, steps: 5
+458 (array([22]),) False
+accuracy:  5
+Episode 459: reward: 5.000, steps: 5
+459 (array([22]),) False
+accuracy:  5
+Episode 460: reward: 5.000, steps: 5
+460 (array([22]),) False
+accuracy:  0
+Episode 461: reward: 4.273, steps: 5
+461 (array([22]),) False
+accuracy:  5
+Episode 462: reward: 5.000, steps: 5
+462 (array([12]),) False
+accuracy:  0
+Episode 463: reward: 3.867, steps: 5
+463 (array([22]),) False
+accuracy:  5
+Episode 464: reward: 5.000, steps: 5
+464 (array([22]),) False
+accuracy:  5
+Episode 465: reward: 5.000, steps: 5
+465 (array([48]),) False
+accuracy:  0
+Episode 466: reward: 4.874, steps: 5
+466 (array([22]),) False
+accuracy:  5
+Episode 467: reward: 5.000, steps: 5
+467 (array([12]),) False
+accuracy:  0
+Episode 468: reward: 4.171, steps: 5
+468 (array([22]),) False
+accuracy:  0
+Episode 469: reward: 3.565, steps: 5
+469 (array([22]),) False
+accuracy:  0
+Episode 470: reward: 2.880, steps: 5
+470 (array([22]),) False
+accuracy:  0
+Episode 471: reward: 4.071, steps: 5
+471 (array([38]),) False
+accuracy:  0
+Episode 472: reward: 3.797, steps: 5
+472 (array([22]),) False
+accuracy:  0
+Episode 473: reward: 4.241, steps: 5
+473 (array([22]),) False
+accuracy:  0
+Episode 474: reward: 3.965, steps: 5
+474 (array([22]),) False
+accuracy:  2
+Episode 475: reward: 4.647, steps: 5
+475 (array([22]),) False
+accuracy:  2
+Episode 476: reward: 4.514, steps: 5
+476 (array([48]),) False
+accuracy:  0
+Episode 477: reward: 4.618, steps: 5
+477 (array([22]),) False
+accuracy:  1
+Episode 478: reward: 4.449, steps: 5
+478 (array([22]),) False
+accuracy:  2
+Episode 479: reward: 4.431, steps: 5
+479 (array([22]),) False
+accuracy:  5
+Episode 480: reward: 5.000, steps: 5
+480 (array([22]),) False
+accuracy:  5
+Episode 481: reward: 5.000, steps: 5
+481 (array([22]),) False
+accuracy:  5
+Episode 482: reward: 5.000, steps: 5
+482 (array([22]),) False
+accuracy:  1
+Episode 483: reward: 4.579, steps: 5
+483 (array([14]),) False
+accuracy:  0
+Episode 484: reward: 4.103, steps: 5
+484 (array([16]),) False
+accuracy:  0
+Episode 485: reward: 3.831, steps: 5
+485 (array([22]),) False
+accuracy:  3
+Episode 486: reward: 4.883, steps: 5
+486 (array([22]),) False
+accuracy:  5
+Episode 487: reward: 5.000, steps: 5
+487 (array([22]),) False
+accuracy:  2
+Episode 488: reward: 4.970, steps: 5
+488 (array([22]),) False
+accuracy:  3
+Episode 489: reward: 4.703, steps: 5
+489 (array([22]),) False
+accuracy:  3
+Episode 490: reward: 4.705, steps: 5
+490 (array([12]),) False
+accuracy:  5
+Episode 491: reward: 5.000, steps: 5
+491 (array([22]),) False
+accuracy:  0
+Episode 492: reward: 4.197, steps: 5
+492 (array([22]),) False
+accuracy:  3
+Episode 493: reward: 4.643, steps: 5
+493 (array([22]),) False
+accuracy:  3
+Episode 494: reward: 4.749, steps: 5
+494 (array([48]),) False
+accuracy:  0
+Episode 495: reward: 4.034, steps: 5
+495 (array([48]),) False
+accuracy:  0
+Episode 496: reward: 4.774, steps: 5
+496 (array([48]),) False
+accuracy:  0
+Episode 497: reward: 4.759, steps: 5
+497 (array([33]),) False
+accuracy:  0
+Episode 498: reward: 2.262, steps: 5
+498 (array([44]),) False
+accuracy:  0
+Episode 499: reward: 3.612, steps: 5
+499 (array([8]),) False
+accuracy:  0
+Episode 500: reward: 2.218, steps: 5
+500 (array([22]),) False
+accuracy:  1
+Episode 501: reward: 4.740, steps: 5
+501 (array([22]),) False
+accuracy:  0
+Episode 502: reward: 4.387, steps: 5
+502 (array([22]),) False
+accuracy:  5
+Episode 503: reward: 5.000, steps: 5
+503 (array([3]),) False
+accuracy:  1
+Episode 504: reward: 2.382, steps: 5
+504 (array([48]),) False
+accuracy:  0
+Episode 505: reward: 3.135, steps: 5
+505 (array([22]),) False
+accuracy:  4
+Episode 506: reward: 4.875, steps: 5
+506 (array([36]),) False
+accuracy:  0
+Episode 507: reward: 1.937, steps: 5
+507 (array([44]),) False
+accuracy:  0
+Episode 508: reward: 4.702, steps: 5
+508 (array([48]),) False
+accuracy:  0
+Episode 509: reward: 3.746, steps: 5
+509 (array([22]),) False
+accuracy:  4
+Episode 510: reward: 4.851, steps: 5
+510 (array([22]),) False
+accuracy:  0
+Episode 511: reward: 3.238, steps: 5
+511 (array([22]),) False
+accuracy:  5
+Episode 512: reward: 5.000, steps: 5
+512 (array([22]),) False
+accuracy:  0
+Episode 513: reward: 4.772, steps: 5
+513 (array([12]),) False
+accuracy:  5
+Episode 514: reward: 5.000, steps: 5
+514 (array([54]),) False
+accuracy:  0
+Episode 515: reward: 2.679, steps: 5
+515 (array([22]),) False
+accuracy:  0
+Episode 516: reward: 3.873, steps: 5
+516 (array([48]),) False
+accuracy:  2
+Episode 517: reward: 4.680, steps: 5
+517 (array([48]),) False
+accuracy:  0
+Episode 518: reward: 4.327, steps: 5
+518 (array([22]),) False
+accuracy:  5
+Episode 519: reward: 5.000, steps: 5
+519 (array([58]),) False
+accuracy:  0
+Episode 520: reward: 2.313, steps: 5
+520 (array([22]),) False
+accuracy:  0
+Episode 521: reward: 4.196, steps: 5
+521 (array([15]),) False
+accuracy:  0
+Episode 522: reward: 4.410, steps: 5
+522 (array([22]),) False
+accuracy:  0
+Episode 523: reward: 3.806, steps: 5
+523 (array([22]),) False
+accuracy:  0
+Episode 524: reward: 4.798, steps: 5
+524 (array([22]),) False
+accuracy:  0
+Episode 525: reward: 4.710, steps: 5
+525 (array([22]),) False
+accuracy:  3
+Episode 526: reward: 4.743, steps: 5
+526 (array([22]),) False
+accuracy:  5
+Episode 527: reward: 5.000, steps: 5
+527 (array([58]),) False
+accuracy:  0
+Episode 528: reward: 3.488, steps: 5
+528 (array([38]),) False
+accuracy:  0
+Episode 529: reward: 4.393, steps: 5
+529 (array([3]),) False
+accuracy:  5
+Episode 530: reward: 5.000, steps: 5
+530 (array([22]),) False
+accuracy:  3
+Episode 531: reward: 4.484, steps: 5
+531 (array([22]),) False
+accuracy:  3
+Episode 532: reward: 4.796, steps: 5
+532 (array([25]),) False
+accuracy:  0
+Episode 533: reward: 3.928, steps: 5
+533 (array([22]),) False
+accuracy:  1
+Episode 534: reward: 4.311, steps: 5
+534 (array([22]),) False
+accuracy:  3
+Episode 535: reward: 4.242, steps: 5
+535 (array([22]),) False
+accuracy:  0
+Episode 536: reward: 4.250, steps: 5
+536 (array([22]),) False
+accuracy:  2
+Episode 537: reward: 3.687, steps: 5
+537 (array([22]),) False
+accuracy:  5
+Episode 538: reward: 5.000, steps: 5
+538 (array([12]),) False
+accuracy:  0
+Episode 539: reward: 3.249, steps: 5
+539 (array([22]),) False
+accuracy:  0
+Episode 540: reward: 4.809, steps: 5
+540 (array([22]),) False
+accuracy:  1
+Episode 541: reward: 4.845, steps: 5
+541 (array([57]),) False
+accuracy:  0
+Episode 542: reward: 2.889, steps: 5
+542 (array([44]),) False
+accuracy:  0
+Episode 543: reward: 3.595, steps: 5
+543 (array([38]),) False
+accuracy:  0
+Episode 544: reward: 4.770, steps: 5
+544 (array([22]),) False
+accuracy:  0
+Episode 545: reward: 4.439, steps: 5
+545 (array([22]),) False
+accuracy:  0
+Episode 546: reward: 4.119, steps: 5
+546 (array([22]),) False
+accuracy:  1
+Episode 547: reward: 4.828, steps: 5
+547 (array([12]),) False
+accuracy:  5
+Episode 548: reward: 5.000, steps: 5
+548 (array([22]),) False
+accuracy:  4
+Episode 549: reward: 4.776, steps: 5
+549 (array([14]),) False
+accuracy:  4
+Episode 550: reward: 4.759, steps: 5
+550 (array([12]),) False
+accuracy:  0
+Episode 551: reward: 3.719, steps: 5
+551 (array([12]),) False
+accuracy:  3
+Episode 552: reward: 4.998, steps: 5
+552 (array([22]),) False
+accuracy:  4
+Episode 553: reward: 4.915, steps: 5
+553 (array([22]),) False
+accuracy:  4
+Episode 554: reward: 4.939, steps: 5
+554 (array([22]),) False
+accuracy:  5
+Episode 555: reward: 5.000, steps: 5
+555 (array([22]),) False
+accuracy:  4
+Episode 556: reward: 4.906, steps: 5
+556 (array([48]),) False
+accuracy:  0
+Episode 557: reward: 3.284, steps: 5
+557 (array([22]),) False
+accuracy:  5
+Episode 558: reward: 5.000, steps: 5
+558 (array([22]),) False
+accuracy:  5
+Episode 559: reward: 5.000, steps: 5
+559 (array([22]),) False
+accuracy:  2
+Episode 560: reward: 4.478, steps: 5
+560 (array([48]),) False
+accuracy:  0
+Episode 561: reward: 4.519, steps: 5
+561 (array([22]),) False
+accuracy:  1
+Episode 562: reward: 4.049, steps: 5
+562 (array([22]),) False
+accuracy:  0
+Episode 563: reward: 4.095, steps: 5
+563 (array([22]),) False
+accuracy:  1
+Episode 564: reward: 4.739, steps: 5
+564 (array([22]),) False
+accuracy:  0
+Episode 565: reward: 4.571, steps: 5
+565 (array([12]),) False
+accuracy:  4
+Episode 566: reward: 4.928, steps: 5
+566 (array([54]),) False
+accuracy:  0
+Episode 567: reward: 2.160, steps: 5
+567 (array([22]),) False
+accuracy:  0
+Episode 568: reward: 4.320, steps: 5
+568 (array([22]),) False
+accuracy:  2
+Episode 569: reward: 4.837, steps: 5
+569 (array([22]),) False
+accuracy:  3
+Episode 570: reward: 4.728, steps: 5
+570 (array([22]),) False
+accuracy:  3
+Episode 571: reward: 4.794, steps: 5
+571 (array([22]),) False
+accuracy:  1
+Episode 572: reward: 4.790, steps: 5
+572 (array([4]),) False
+accuracy:  0
+Episode 573: reward: 4.135, steps: 5
+573 (array([22]),) False
+accuracy:  3
+Episode 574: reward: 4.585, steps: 5
+574 (array([22]),) False
+accuracy:  5
+Episode 575: reward: 5.000, steps: 5
+575 (array([22]),) False
+accuracy:  5
+Episode 576: reward: 5.000, steps: 5
+576 (array([58]),) False
+accuracy:  0
+Episode 577: reward: 2.310, steps: 5
+577 (array([12]),) False
+accuracy:  0
+Episode 578: reward: 4.991, steps: 5
+578 (array([22]),) False
+accuracy:  5
+Episode 579: reward: 5.000, steps: 5
+579 (array([58]),) False
+accuracy:  0
+Episode 580: reward: 2.892, steps: 5
+580 (array([22]),) False
+accuracy:  5
+Episode 581: reward: 5.000, steps: 5
+581 (array([22]),) False
+accuracy:  5
+Episode 582: reward: 5.000, steps: 5
+582 (array([22]),) False
+accuracy:  4
+Episode 583: reward: 4.849, steps: 5
+583 (array([12]),) False
+accuracy:  5
+Episode 584: reward: 5.000, steps: 5
+584 (array([3]),) False
+accuracy:  0
+Episode 585: reward: 1.409, steps: 5
+585 (array([48]),) False
+accuracy:  0
+Episode 586: reward: 4.791, steps: 5
+586 (array([12]),) False
+accuracy:  5
+Episode 587: reward: 5.000, steps: 5
+587 (array([14]),) False
+accuracy:  0
+Episode 588: reward: 4.422, steps: 5
+588 (array([22]),) False
+accuracy:  5
+Episode 589: reward: 5.000, steps: 5
+589 (array([12]),) False
+accuracy:  1
+Episode 590: reward: 4.356, steps: 5
+590 (array([22]),) False
+accuracy:  5
+Episode 591: reward: 5.000, steps: 5
+591 (array([22]),) False
+accuracy:  5
+Episode 592: reward: 5.000, steps: 5
+592 (array([22]),) False
+accuracy:  5
+Episode 593: reward: 5.000, steps: 5
+593 (array([22]),) False
+accuracy:  2
+Episode 594: reward: 4.952, steps: 5
+594 (array([22]),) False
+accuracy:  5
+Episode 595: reward: 5.000, steps: 5
+595 (array([22]),) False
+accuracy:  0
+Episode 596: reward: 4.221, steps: 5
+596 (array([22]),) False
+accuracy:  0
+Episode 597: reward: 3.674, steps: 5
+597 (array([22]),) False
+accuracy:  0
+Episode 598: reward: 4.302, steps: 5
+598 (array([12]),) False
+accuracy:  1
+Episode 599: reward: 4.772, steps: 5
+599 (array([47]),) False
+accuracy:  2
+Episode 600: reward: 3.698, steps: 5
+600 (array([48]),) False
+accuracy:  2
+Episode 601: reward: 3.789, steps: 5
+601 (array([48]),) False
+accuracy:  4
+Episode 602: reward: 4.792, steps: 5
+602 (array([44]),) False
+accuracy:  0
+Episode 603: reward: 2.384, steps: 5
+603 (array([58]),) False
+accuracy:  0
+Episode 604: reward: 0.874, steps: 5
+604 (array([40]),) False
+accuracy:  0
+Episode 605: reward: 4.439, steps: 5
+605 (array([22]),) False
+accuracy:  5
+Episode 606: reward: 5.000, steps: 5
+606 (array([22]),) False
+accuracy:  5
+Episode 607: reward: 5.000, steps: 5
+607 (array([12]),) False
+accuracy:  0
+Episode 608: reward: 4.716, steps: 5
+608 (array([36]),) False
+accuracy:  0
+Episode 609: reward: 2.520, steps: 5
+609 (array([22]),) False
+accuracy:  5
+Episode 610: reward: 5.000, steps: 5
+610 (array([22]),) False
+accuracy:  5
+Episode 611: reward: 5.000, steps: 5
+611 (array([48]),) False
+accuracy:  0
+Episode 612: reward: 4.731, steps: 5
+612 (array([48]),) False
+accuracy:  0
+Episode 613: reward: 4.639, steps: 5
+613 (array([22]),) False
+accuracy:  4
+Episode 614: reward: 4.832, steps: 5
+614 (array([22]),) False
+accuracy:  5
+Episode 615: reward: 5.000, steps: 5
+615 (array([36]),) False
+accuracy:  0
+Episode 616: reward: 3.316, steps: 5
+616 (array([22]),) False
+accuracy:  3
+Episode 617: reward: 4.669, steps: 5
+617 (array([22]),) False
+accuracy:  5
+Episode 618: reward: 5.000, steps: 5
+618 (array([48]),) False
+accuracy:  0
+Episode 619: reward: 4.565, steps: 5
+619 (array([3]),) False
+accuracy:  5
+Episode 620: reward: 5.000, steps: 5
+620 (array([58]),) False
+accuracy:  0
+Episode 621: reward: 2.427, steps: 5
+621 (array([22]),) False
+accuracy:  0
+Episode 622: reward: 2.033, steps: 5
+622 (array([36]),) False
+accuracy:  0
+Episode 623: reward: 4.440, steps: 5
+623 (array([37]),) False
+accuracy:  0
+Episode 624: reward: 3.238, steps: 5
+624 (array([48]),) False
+accuracy:  0
+Episode 625: reward: 3.849, steps: 5
+625 (array([22]),) False
+accuracy:  0
+Episode 626: reward: 4.679, steps: 5
+626 (array([22]),) False
+accuracy:  0
+Episode 627: reward: 4.449, steps: 5
+627 (array([48]),) False
+accuracy:  1
+Episode 628: reward: 4.777, steps: 5
+628 (array([42]),) False
+accuracy:  0
+Episode 629: reward: 3.855, steps: 5
+629 (array([48]),) False
+accuracy:  0
+Episode 630: reward: 4.520, steps: 5
+630 (array([22]),) False
+accuracy:  1
+Episode 631: reward: 4.907, steps: 5
+631 (array([22]),) False
+accuracy:  2
+Episode 632: reward: 4.672, steps: 5
+632 (array([22]),) False
+accuracy:  1
+Episode 633: reward: 4.541, steps: 5
+633 (array([22]),) False
+accuracy:  1
+Episode 634: reward: 4.288, steps: 5
+634 (array([48]),) False
+accuracy:  2
+Episode 635: reward: 4.243, steps: 5
+635 (array([48]),) False
+accuracy:  4
+Episode 636: reward: 4.991, steps: 5
+636 (array([48]),) False
+accuracy:  1
+Episode 637: reward: 4.857, steps: 5
+637 (array([48]),) False
+accuracy:  1
+Episode 638: reward: 4.945, steps: 5
+638 (array([22]),) False
+accuracy:  4
+Episode 639: reward: 4.890, steps: 5
+639 (array([22]),) False
+accuracy:  4
+Episode 640: reward: 4.747, steps: 5
+640 (array([22]),) False
+accuracy:  5
+Episode 641: reward: 5.000, steps: 5
+641 (array([22]),) False
+accuracy:  5
+Episode 642: reward: 5.000, steps: 5
+642 (array([22]),) False
+accuracy:  5
+Episode 643: reward: 5.000, steps: 5
+643 (array([22]),) False
+accuracy:  5
+Episode 644: reward: 5.000, steps: 5
+644 (array([22]),) False
+accuracy:  2
+Episode 645: reward: 4.029, steps: 5
+645 (array([48]),) False
+accuracy:  0
+Episode 646: reward: 4.622, steps: 5
+646 (array([3]),) False
+accuracy:  4
+Episode 647: reward: 4.195, steps: 5
+647 (array([22]),) False
+accuracy:  5
+Episode 648: reward: 5.000, steps: 5
+648 (array([22]),) False
+accuracy:  5
+Episode 649: reward: 5.000, steps: 5
+649 (array([22]),) False
+accuracy:  5
+Episode 650: reward: 5.000, steps: 5
+650 (array([22]),) False
+accuracy:  5
+Episode 651: reward: 5.000, steps: 5
+651 (array([22]),) False
+accuracy:  5
+Episode 652: reward: 5.000, steps: 5
+652 (array([22]),) False
+accuracy:  5
+Episode 653: reward: 5.000, steps: 5
+653 (array([48]),) False
+accuracy:  0
+Episode 654: reward: 4.691, steps: 5
+654 (array([22]),) False
+accuracy:  0
+Episode 655: reward: 4.362, steps: 5
+655 (array([22]),) False
+accuracy:  0
+Episode 656: reward: 4.151, steps: 5
+656 (array([48]),) False
+accuracy:  0
+Episode 657: reward: 4.753, steps: 5
+657 (array([48]),) False
+accuracy:  0
+Episode 658: reward: 4.566, steps: 5
+658 (array([22]),) False
+accuracy:  0
+Episode 659: reward: 4.285, steps: 5
+659 (array([22]),) False
+accuracy:  0
+Episode 660: reward: 4.276, steps: 5
+660 (array([8]),) False
+accuracy:  4
+Episode 661: reward: 4.223, steps: 5
+661 (array([22]),) False
+accuracy:  0
+Episode 662: reward: 4.668, steps: 5
+662 (array([12]),) False
+accuracy:  5
+Episode 663: reward: 5.000, steps: 5
+663 (array([58]),) False
+accuracy:  0
+Episode 664: reward: 1.978, steps: 5
+664 (array([44]),) False
+accuracy:  0
+Episode 665: reward: 1.219, steps: 5
+665 (array([22]),) False
+accuracy:  0
+Episode 666: reward: 4.377, steps: 5
+666 (array([22]),) False
+accuracy:  0
+Episode 667: reward: 4.911, steps: 5
+667 (array([22]),) False
+accuracy:  0
+Episode 668: reward: 4.884, steps: 5
+668 (array([22]),) False
+accuracy:  0
+Episode 669: reward: 3.972, steps: 5
+669 (array([15]),) False
+accuracy:  0
+Episode 670: reward: 4.388, steps: 5
+670 (array([58]),) False
+accuracy:  2
+Episode 671: reward: 4.638, steps: 5
+671 (array([4]),) False
+accuracy:  0
+Episode 672: reward: 1.582, steps: 5
+672 (array([58]),) False
+accuracy:  0
+Episode 673: reward: 4.125, steps: 5
+673 (array([3]),) False
+accuracy:  0
+Episode 674: reward: 4.440, steps: 5
+674 (array([22]),) False
+accuracy:  5
+Episode 675: reward: 5.000, steps: 5
+675 (array([22]),) False
+accuracy:  5
+Episode 676: reward: 5.000, steps: 5
+676 (array([18]),) False
+accuracy:  1
+Episode 677: reward: 3.746, steps: 5
+677 (array([22]),) False
+accuracy:  3
+Episode 678: reward: 4.424, steps: 5
+678 (array([22]),) False
+accuracy:  2
+Episode 679: reward: 3.889, steps: 5
+679 (array([22]),) False
+accuracy:  1
+Episode 680: reward: 3.870, steps: 5
+680 (array([22]),) False
+accuracy:  3
+Episode 681: reward: 4.482, steps: 5
+681 (array([12]),) False
+accuracy:  2
+Episode 682: reward: 4.438, steps: 5
+682 (array([22]),) False
+accuracy:  3
+Episode 683: reward: 4.668, steps: 5
+683 (array([22]),) False
+accuracy:  2
+Episode 684: reward: 3.568, steps: 5
+684 (array([22]),) False
+accuracy:  5
+Episode 685: reward: 5.000, steps: 5
+685 (array([48]),) False
+accuracy:  0
+Episode 686: reward: 2.940, steps: 5
+686 (array([12]),) False
+accuracy:  0
+Episode 687: reward: 4.002, steps: 5
+687 (array([44]),) False
+accuracy:  0
+Episode 688: reward: 4.764, steps: 5
+688 (array([22]),) False
+accuracy:  5
+Episode 689: reward: 5.000, steps: 5
+689 (array([47]),) False
+accuracy:  0
+Episode 690: reward: 4.624, steps: 5
+690 (array([22]),) False
+accuracy:  5
+Episode 691: reward: 5.000, steps: 5
+691 (array([22]),) False
+accuracy:  5
+Episode 692: reward: 5.000, steps: 5
+692 (array([22]),) False
+accuracy:  5
+Episode 693: reward: 5.000, steps: 5
+693 (array([22]),) False
+accuracy:  5
+Episode 694: reward: 5.000, steps: 5
+694 (array([22]),) False
+accuracy:  5
+Episode 695: reward: 5.000, steps: 5
+695 (array([22]),) False
+accuracy:  3
+Episode 696: reward: 4.737, steps: 5
+696 (array([36]),) False
+accuracy:  0
+Episode 697: reward: 3.451, steps: 5
+697 (array([22]),) False
+accuracy:  3
+Episode 698: reward: 4.913, steps: 5
+698 (array([22]),) False
+accuracy:  2
+Episode 699: reward: 4.542, steps: 5
+699 (array([22]),) False
+accuracy:  3
+Episode 700: reward: 4.480, steps: 5
+700 (array([44]),) False
+accuracy:  0
+Episode 701: reward: 4.183, steps: 5
+701 (array([48]),) False
+accuracy:  0
+Episode 702: reward: 4.868, steps: 5
+702 (array([33]),) False
+accuracy:  0
+Episode 703: reward: 2.093, steps: 5
+703 (array([8]),) False
+accuracy:  0
+Episode 704: reward: 3.921, steps: 5
+704 (array([22]),) False
+accuracy:  0
+Episode 705: reward: 3.541, steps: 5
+705 (array([22]),) False
+accuracy:  0
+Episode 706: reward: 4.332, steps: 5
+706 (array([22]),) False
+accuracy:  0
+Episode 707: reward: 4.582, steps: 5
+707 (array([48]),) False
+accuracy:  0
+Episode 708: reward: 4.120, steps: 5
+708 (array([22]),) False
+accuracy:  2
+Episode 709: reward: 4.125, steps: 5
+709 (array([40]),) False
+accuracy:  0
+Episode 710: reward: 2.836, steps: 5
+710 (array([22]),) False
+accuracy:  0
+Episode 711: reward: 4.986, steps: 5
+711 (array([22]),) False
+accuracy:  3
+Episode 712: reward: 4.856, steps: 5
+712 (array([22]),) False
+accuracy:  2
+Episode 713: reward: 4.425, steps: 5
+713 (array([48]),) False
+accuracy:  0
+Episode 714: reward: 4.242, steps: 5
+714 (array([22]),) False
+accuracy:  3
+Episode 715: reward: 4.645, steps: 5
+715 (array([22]),) False
+accuracy:  0
+Episode 716: reward: 4.470, steps: 5
+716 (array([48]),) False
+accuracy:  1
+Episode 717: reward: 4.591, steps: 5
+717 (array([22]),) False
+accuracy:  2
+Episode 718: reward: 4.179, steps: 5
+718 (array([22]),) False
+accuracy:  2
+Episode 719: reward: 4.686, steps: 5
+719 (array([22]),) False
+accuracy:  2
+Episode 720: reward: 4.201, steps: 5
+720 (array([22]),) False
+accuracy:  0
+Episode 721: reward: 4.398, steps: 5
+721 (array([22]),) False
+accuracy:  2
+Episode 722: reward: 4.647, steps: 5
+722 (array([22]),) False
+accuracy:  0
+Episode 723: reward: 4.553, steps: 5
+723 (array([58]),) False
+accuracy:  0
+Episode 724: reward: 2.055, steps: 5
+724 (array([58]),) False
+accuracy:  0
+Episode 725: reward: 3.068, steps: 5
+725 (array([36]),) False
+accuracy:  0
+Episode 726: reward: 1.818, steps: 5
+726 (array([12]),) False
+accuracy:  0
+Episode 727: reward: 4.691, steps: 5
+727 (array([12]),) False
+accuracy:  3
+Episode 728: reward: 4.658, steps: 5
+728 (array([22]),) False
+accuracy:  2
+Episode 729: reward: 4.820, steps: 5
+729 (array([14]),) False
+accuracy:  0
+Episode 730: reward: 4.322, steps: 5
+730 (array([54]),) False
+accuracy:  0
+Episode 731: reward: 3.067, steps: 5
+731 (array([22]),) False
+accuracy:  4
+Episode 732: reward: 4.960, steps: 5
+732 (array([12]),) False
+accuracy:  2
+Episode 733: reward: 4.855, steps: 5
+733 (array([22]),) False
+accuracy:  0
+Episode 734: reward: 4.689, steps: 5
+734 (array([22]),) False
+accuracy:  0
+Episode 735: reward: 4.006, steps: 5
+735 (array([22]),) False
+accuracy:  0
+Episode 736: reward: 4.667, steps: 5
+736 (array([48]),) False
+accuracy:  2
+Episode 737: reward: 4.251, steps: 5
+737 (array([50]),) False
+accuracy:  0
+Episode 738: reward: 3.978, steps: 5
+738 (array([12]),) False
+accuracy:  5
+Episode 739: reward: 5.000, steps: 5
+739 (array([22]),) False
+accuracy:  1
+Episode 740: reward: 4.951, steps: 5
+740 (array([58]),) False
+accuracy:  0
+Episode 741: reward: 0.397, steps: 5
+741 (array([12]),) False
+accuracy:  2
+Episode 742: reward: 4.651, steps: 5
+742 (array([33]),) False
+accuracy:  0
+Episode 743: reward: 3.081, steps: 5
+743 (array([22]),) False
+accuracy:  3
+Episode 744: reward: 4.679, steps: 5
+744 (array([22]),) False
+accuracy:  0
+Episode 745: reward: 3.543, steps: 5
+745 (array([40]),) False
+accuracy:  0
+Episode 746: reward: 3.165, steps: 5
+746 (array([37]),) False
+accuracy:  1
+Episode 747: reward: 4.606, steps: 5
+747 (array([22]),) False
+accuracy:  4
+Episode 748: reward: 4.918, steps: 5
+748 (array([22]),) False
+accuracy:  4
+Episode 749: reward: 4.823, steps: 5
+749 (array([22]),) False
+accuracy:  4
+Episode 750: reward: 4.942, steps: 5
+750 (array([22]),) False
+accuracy:  4
+Episode 751: reward: 4.916, steps: 5
+751 (array([22]),) False
+accuracy:  4
+Episode 752: reward: 4.805, steps: 5
+752 (array([3]),) False
+accuracy:  4
+Episode 753: reward: 4.227, steps: 5
+753 (array([12]),) False
+accuracy:  1
+Episode 754: reward: 4.879, steps: 5
+754 (array([52]),) False
+accuracy:  0
+Episode 755: reward: 3.907, steps: 5
+755 (array([22]),) False
+accuracy:  5
+Episode 756: reward: 5.000, steps: 5
+756 (array([48]),) False
+accuracy:  0
+Episode 757: reward: 4.944, steps: 5
+757 (array([48]),) False
+accuracy:  0
+Episode 758: reward: 4.980, steps: 5
+758 (array([38]),) False
+accuracy:  0
+Episode 759: reward: 4.822, steps: 5
+759 (array([48]),) False
+accuracy:  0
+Episode 760: reward: 4.682, steps: 5
+760 (array([48]),) False
+accuracy:  2
+Episode 761: reward: 4.229, steps: 5
+761 (array([3]),) False
+accuracy:  5
+Episode 762: reward: 5.000, steps: 5
+762 (array([22]),) False
+accuracy:  1
+Episode 763: reward: 4.832, steps: 5
+763 (array([22]),) False
+accuracy:  0
+Episode 764: reward: 4.142, steps: 5
+764 (array([48]),) False
+accuracy:  0
+Episode 765: reward: 4.487, steps: 5
+765 (array([48]),) False
+accuracy:  0
+Episode 766: reward: 3.586, steps: 5
+766 (array([48]),) False
+accuracy:  0
+Episode 767: reward: 4.762, steps: 5
+767 (array([48]),) False
+accuracy:  0
+Episode 768: reward: 3.917, steps: 5
+768 (array([22]),) False
+accuracy:  1
+Episode 769: reward: 4.418, steps: 5
+769 (array([48]),) False
+accuracy:  0
+Episode 770: reward: 4.776, steps: 5
+770 (array([22]),) False
+accuracy:  2
+Episode 771: reward: 4.885, steps: 5
+771 (array([12]),) False
+accuracy:  5
+Episode 772: reward: 5.000, steps: 5
+772 (array([46]),) False
+accuracy:  0
+Episode 773: reward: 3.971, steps: 5
+773 (array([22]),) False
+accuracy:  2
+Episode 774: reward: 4.452, steps: 5
+774 (array([57]),) False
+accuracy:  0
+Episode 775: reward: 3.675, steps: 5
+775 (array([58]),) False
+accuracy:  0
+Episode 776: reward: 4.095, steps: 5
+776 (array([22]),) False
+accuracy:  5
+Episode 777: reward: 5.000, steps: 5
+777 (array([48]),) False
+accuracy:  0
+Episode 778: reward: 4.667, steps: 5
+778 (array([38]),) False
+accuracy:  1
+Episode 779: reward: 4.640, steps: 5
+779 (array([12]),) False
+accuracy:  5
+Episode 780: reward: 5.000, steps: 5
+780 (array([22]),) False
+accuracy:  5
+Episode 781: reward: 5.000, steps: 5
+781 (array([44]),) False
+accuracy:  0
+Episode 782: reward: 3.363, steps: 5
+782 (array([22]),) False
+accuracy:  0
+Episode 783: reward: 2.835, steps: 5
+783 (array([22]),) False
+accuracy:  3
+Episode 784: reward: 4.802, steps: 5
+784 (array([22]),) False
+accuracy:  3
+Episode 785: reward: 4.894, steps: 5
+785 (array([22]),) False
+accuracy:  3
+Episode 786: reward: 4.648, steps: 5
+786 (array([22]),) False
+accuracy:  3
+Episode 787: reward: 4.522, steps: 5
+787 (array([48]),) False
+accuracy:  0
+Episode 788: reward: 3.846, steps: 5
+788 (array([3]),) False
+accuracy:  5
+Episode 789: reward: 5.000, steps: 5
+789 (array([22]),) False
+accuracy:  3
+Episode 790: reward: 4.993, steps: 5
+790 (array([48]),) False
+accuracy:  0
+Episode 791: reward: 4.011, steps: 5
+791 (array([17]),) False
+accuracy:  0
+Episode 792: reward: 2.629, steps: 5
+792 (array([58]),) False
+accuracy:  0
+Episode 793: reward: 4.619, steps: 5
+793 (array([12]),) False
+accuracy:  5
+Episode 794: reward: 5.000, steps: 5
+794 (array([22]),) False
+accuracy:  0
+Episode 795: reward: 4.181, steps: 5
+795 (array([3]),) False
+accuracy:  1
+Episode 796: reward: 3.116, steps: 5
+796 (array([38]),) False
+accuracy:  0
+Episode 797: reward: 4.975, steps: 5
+797 (array([22]),) False
+accuracy:  0
+Episode 798: reward: 4.569, steps: 5
+798 (array([16]),) False
+accuracy:  0
+Episode 799: reward: 4.961, steps: 5
+799 (array([44]),) False
+accuracy:  0
+Episode 800: reward: 2.701, steps: 5
+800 (array([22]),) False
+accuracy:  0
+Episode 801: reward: 4.288, steps: 5
+801 (array([22]),) False
+accuracy:  5
+Episode 802: reward: 5.000, steps: 5
+802 (array([33]),) False
+accuracy:  1
+Episode 803: reward: 4.082, steps: 5
+803 (array([44]),) False
+accuracy:  0
+Episode 804: reward: 3.355, steps: 5
+804 (array([3]),) False
+accuracy:  0
+Episode 805: reward: 1.037, steps: 5
+805 (array([12]),) False
+accuracy:  2
+Episode 806: reward: 4.789, steps: 5
+806 (array([22]),) False
+accuracy:  4
+Episode 807: reward: 4.745, steps: 5
+807 (array([22]),) False
+accuracy:  5
+Episode 808: reward: 5.000, steps: 5
+808 (array([22]),) False
+accuracy:  5
+Episode 809: reward: 5.000, steps: 5
+809 (array([48]),) False
+accuracy:  0
+Episode 810: reward: 4.003, steps: 5
+810 (array([12]),) False
+accuracy:  0
+Episode 811: reward: 4.813, steps: 5
+811 (array([14]),) False
+accuracy:  0
+Episode 812: reward: 4.278, steps: 5
+812 (array([21]),) False
+accuracy:  0
+Episode 813: reward: 4.322, steps: 5
+813 (array([22]),) False
+accuracy:  5
+Episode 814: reward: 5.000, steps: 5
+814 (array([22]),) False
+accuracy:  5
+Episode 815: reward: 5.000, steps: 5
+815 (array([22]),) False
+accuracy:  3
+Episode 816: reward: 3.271, steps: 5
+816 (array([58]),) False
+accuracy:  0
+Episode 817: reward: 0.812, steps: 5
+817 (array([12]),) False
+accuracy:  0
+Episode 818: reward: 3.049, steps: 5
+818 (array([48]),) False
+accuracy:  0
+Episode 819: reward: 4.096, steps: 5
+819 (array([48]),) False
+accuracy:  0
+Episode 820: reward: 3.943, steps: 5
+820 (array([22]),) False
+accuracy:  5
+Episode 821: reward: 5.000, steps: 5
+821 (array([22]),) False
+accuracy:  5
+Episode 822: reward: 5.000, steps: 5
+822 (array([22]),) False
+accuracy:  2
+Episode 823: reward: 4.513, steps: 5
+823 (array([54]),) False
+accuracy:  0
+Episode 824: reward: 3.294, steps: 5
+824 (array([22]),) False
+accuracy:  4
+Episode 825: reward: 4.901, steps: 5
+825 (array([22]),) False
+accuracy:  5
+Episode 826: reward: 5.000, steps: 5
+826 (array([22]),) False
+accuracy:  5
+Episode 827: reward: 5.000, steps: 5
+827 (array([14]),) False
+accuracy:  0
+Episode 828: reward: 4.205, steps: 5
+828 (array([48]),) False
+accuracy:  0
+Episode 829: reward: 4.779, steps: 5
+829 (array([16]),) False
+accuracy:  0
+Episode 830: reward: 3.950, steps: 5
+830 (array([22]),) False
+accuracy:  5
+Episode 831: reward: 5.000, steps: 5
+831 (array([58]),) False
+accuracy:  0
+Episode 832: reward: 3.841, steps: 5
+832 (array([22]),) False
+accuracy:  4
+Episode 833: reward: 4.954, steps: 5
+833 (array([22]),) False
+accuracy:  3
+Episode 834: reward: 4.859, steps: 5
+834 (array([44]),) False
+accuracy:  0
+Episode 835: reward: 3.893, steps: 5
+835 (array([48]),) False
+accuracy:  0
+Episode 836: reward: 4.358, steps: 5
+836 (array([22]),) False
+accuracy:  4
+Episode 837: reward: 4.686, steps: 5
+837 (array([48]),) False
+accuracy:  0
+Episode 838: reward: 4.880, steps: 5
+838 (array([21]),) False
+accuracy:  0
+Episode 839: reward: 4.392, steps: 5
+839 (array([22]),) False
+accuracy:  4
+Episode 840: reward: 4.730, steps: 5
+840 (array([12]),) False
+accuracy:  5
+Episode 841: reward: 5.000, steps: 5
+841 (array([12]),) False
+accuracy:  5
+Episode 842: reward: 5.000, steps: 5
+842 (array([22]),) False
+accuracy:  4
+Episode 843: reward: 4.737, steps: 5
+843 (array([54]),) False
+accuracy:  0
+Episode 844: reward: 2.929, steps: 5
+844 (array([48]),) False
+accuracy:  0
+Episode 845: reward: 2.501, steps: 5
+845 (array([22]),) False
+accuracy:  2
+Episode 846: reward: 3.912, steps: 5
+846 (array([48]),) False
+accuracy:  0
+Episode 847: reward: 4.868, steps: 5
+847 (array([22]),) False
+accuracy:  4
+Episode 848: reward: 4.965, steps: 5
+848 (array([44]),) False
+accuracy:  0
+Episode 849: reward: 3.249, steps: 5
+849 (array([58]),) False
+accuracy:  0
+Episode 850: reward: 3.118, steps: 5
+850 (array([21]),) False
+accuracy:  0
+Episode 851: reward: 4.049, steps: 5
+851 (array([12]),) False
+accuracy:  1
+Episode 852: reward: 4.924, steps: 5
+852 (array([22]),) False
+accuracy:  5
+Episode 853: reward: 5.000, steps: 5
+853 (array([22]),) False
+accuracy:  5
+Episode 854: reward: 5.000, steps: 5
+854 (array([22]),) False
+accuracy:  5
+Episode 855: reward: 5.000, steps: 5
+855 (array([22]),) False
+accuracy:  0
+Episode 856: reward: 3.763, steps: 5
+856 (array([48]),) False
+accuracy:  0
+Episode 857: reward: 4.658, steps: 5
+857 (array([22]),) False
+accuracy:  0
+Episode 858: reward: 3.769, steps: 5
+858 (array([12]),) False
+accuracy:  5
+Episode 859: reward: 5.000, steps: 5
+859 (array([22]),) False
+accuracy:  5
+Episode 860: reward: 5.000, steps: 5
+860 (array([12]),) False
+accuracy:  5
+Episode 861: reward: 5.000, steps: 5
+861 (array([22]),) False
+accuracy:  1
+Episode 862: reward: 4.508, steps: 5

@@ -1,0 +1,8 @@
+CNN_model1: sllee41 and neenyabigki2
+CNN_model2: sllee41 and neenyabigki7
+CNN_model3: sllee41 and neenyabigki7
+stacked_ensemble: neenyabigki6
+
+Saved all 4 CNN_model1, CNN_model2, CNN_model3, stacked_ensemble colab notebooks to Github
+
+
